@@ -1,0 +1,9 @@
+langchain>=1.0
+langchain-openai
+langchain-core
+streamlit
+matplotlib
+numpy-financial
+pandas
+ipykernel
+langchain-google-genai
